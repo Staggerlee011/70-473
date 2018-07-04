@@ -1,0 +1,12 @@
+# EDX Recovering Data in Azure and SQL Server
+Below are some general notes taken from the EDX course EDX-Recovering-Data-in-Azure-and-SQL-Server
+
+## Module 1 
+RTO - Recovery Time objective
+  How much time does it take to recover from a restore
+RPO - Recovery Point Objective
+  How much data can be lost from a restore
+
+
+
+ 
