@@ -12,7 +12,9 @@ BP to use AD groups for logins and link users and logins to roles. to simplify a
 ## Configure Transparent Database Encryption (TDE)
 Encrypts the database at rest (encluding backups). You need to create a master certificate, the encrypt the database. You can only restore the database to an intance that has the same master certificate. 
 
-- configure row-level security
+## configure row-level security
+[More Details on Row Level Security](more\row-level-secuirty.md)
+
 - configure data encryption
 - configure data masking
 - configure Always Encrypted  
